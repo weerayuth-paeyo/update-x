@@ -1,0 +1,1 @@
+{"path_file": "https://rec.fastship.co/uploads/AUTO-REC.zip","exe_name":"AUTO-REC_Setup.exe"}

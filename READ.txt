@@ -1,0 +1,1 @@
+pyinstaller --clean --noconsole --uac-admin --onefile --icon=ico_UpdateX.ico --paths="Update_X.ui;." .\UpdateX.py
